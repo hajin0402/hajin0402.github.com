@@ -41,8 +41,8 @@ print("a는 0보다 작다")
 
 ## 반복문 for
 
-{% highlight css %}
-for b in [1, 2, 3, 4, 5]:
+{% highlight css %} 
+for b in [1, 2, 3, 4, 5]: 
 print(b)
 {% endhighlight %}
 
@@ -65,3 +65,5 @@ else:
     return b
 print(min(5, 4))
 {% endhighlight %}
+
+python에서는 이것보다 많은 기능이 더 있다.
