@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "2023 2 04 첫 블로그"
+title: "2023 02 04 첫 블로그"
 date: 2023-02-04
-excerpt: "A ton of text to test readability."
+excerpt: "안녕하세요 hajin0402입니다."
 tags: [python]
 comments: true
 ---
