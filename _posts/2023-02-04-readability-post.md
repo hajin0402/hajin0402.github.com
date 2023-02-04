@@ -66,4 +66,4 @@ else:
 print(min(5, 4))
 {% endhighlight %}
 
-python에서는 이것보다 많은 기능이 더 있다.
+*python에서는 이것보다 많은 기능이 더 있다.
