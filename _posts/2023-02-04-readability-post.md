@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "2023 02 04 첫 블로그"
+title: "2023 02 04"
 date: 2023-02-04
 excerpt: "안녕하세요 hajin0402입니다."
 tags: [python]
 comments: true
 ---
 
-안녕하세요 이번에 처음 블로그를 시작하게된 hajin0402 입니다. 아직은 처음이라 부족하지만 점점 퀼리티 있게 써나가겠습니다!!
+안녕하세요 앞으로 python을 다룰 hajin0402입니다.
 
 ## 파이썬 소개
 
