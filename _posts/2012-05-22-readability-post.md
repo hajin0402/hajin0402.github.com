@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "2023 2 04 첫 블로그"
-date: 2012-05-22
+date: 2023-02-04
 excerpt: "A ton of text to test readability."
-tags: [sample post, readability, test]
+tags: [python]
 comments: true
 ---
 
