@@ -16,19 +16,52 @@ comments: true
 
 ## 사칙연산
 {% highlight css %}
-#container {
-1 + 1
-4 - 2
+1+1
+4-2
 2*3
-3 / 2
-}
+3/2
 {% endhighlight %}
 
-##변수에 대입
+## 변수에 대입
 {% highlight css %}
-#container {
-a = 2
-b = 3
-a - b
-}
+a=2
+b=3
+a-b
+{% endhighlight %}
+
+## 조건문
+
+{% highlight css %}
+a=2
+if a>0:
+print("a는 0보다 크다")
+else :
+print("a는 0보다 작다")
+{% endhighlight %}
+
+## 반복문 for
+
+{% highlight css %}
+for b in [1, 2, 3, 4, 5]:
+print(b)
+{% endhighlight %}
+
+## 반복문 while
+
+{% highlight css %}
+a = 0
+while a < 5:
+a=a+1
+print(a)
+{% endhighlight %}
+
+## 함수 
+
+{% highlight css %}
+def min(a, b):
+if a < b:
+    return a
+else:
+    return b
+print(min(5, 4))
 {% endhighlight %}
