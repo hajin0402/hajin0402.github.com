@@ -16,8 +16,19 @@ comments: true
 
 ## 사칙연산
 {% highlight css %}
+#container {
 1 + 1
 4 - 2
 2*3
 3 / 2
+}
+{% endhighlight %}
+
+##변수에 대입
+{% highlight css %}
+#container {
+a = 2
+b = 3
+a - b
+}
 {% endhighlight %}
