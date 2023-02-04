@@ -9,9 +9,9 @@ comments: true
 
 안녕하세요 이번에 처음 블로그를 시작하게된 hajin0402 입니다. 아직은 처음이라 부족하지만 점점 퀼리티 있게 써나가겠습니다!!
 
-## Cupidatat 90's lo-fi authentic try-hard
+## 파이썬 소개
 
-In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90's.
+파이썬은 
 
 * Sartorial hoodie
 * Labore viral forage
