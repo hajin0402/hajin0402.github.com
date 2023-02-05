@@ -16,7 +16,7 @@ comments: true
 
 # 파이썬 기능 소개
 
-## 사칙연산
+## 1.사칙연산
 {% highlight css %}
 1+1
 4-2
@@ -24,14 +24,14 @@ comments: true
 3/2
 {% endhighlight %}
 
-## 변수에 대입
+## 2.변수에 대입
 {% highlight css %}
 a=2
 b=3
 a-b
 {% endhighlight %}
 
-## 조건문
+## 3.조건문
 
 {% highlight css %}
 a=2
@@ -41,14 +41,14 @@ else :
 print("a는 0보다 작다")
 {% endhighlight %}
 
-## 반복문 for
+## 4.반복문 for
 
 {% highlight css %} 
 for b in [1, 2, 3, 4, 5]: 
 print(b)
 {% endhighlight %}
 
-## 반복문 while
+## 5.반복문 while
 
 {% highlight css %}
 a = 0
@@ -57,7 +57,7 @@ a=a+1
 print(a)
 {% endhighlight %}
 
-## 함수 
+## 6.함수 
 
 {% highlight css %}
 def min(a, b):
